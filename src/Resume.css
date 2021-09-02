@@ -1,0 +1,86 @@
+.College {
+    text-align: left;
+    margin-left: 23%;
+  }
+  
+  .AreaOfStudy_List {
+    text-align: left;
+    margin-left: 22%;
+  }
+  
+  .ProjectTitle {
+    text-align: left;
+    margin-left: 23%;
+    margin-top: 2.5%;
+    margin-bottom: 0%;
+    
+  }
+  
+  .ProjectLine {
+    width: 60%;
+    border-color: black;
+    border-style:double;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: .5px;
+    margin-top: 0%;
+    margin-left: 23%;
+    
+  }
+  
+  .Projects {
+    text-align: left;
+    margin-left: 23%;
+  }
+  
+  .SkillsandExpTitle {
+    text-align: left;
+    margin-left: 23%;
+    margin-top: 2.5%;
+    margin-bottom: 0%;
+  }
+  
+  .SkillsLine {
+    width: 60%;
+    border-color: black;
+    border-style:double;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: .5px;
+    margin-top: 0%;
+    margin-left: 23%;
+    
+  }
+  
+  .Skills {
+    text-align: left;
+    margin-left: 23%;
+  }
+  
+  .CourseworkTitle {
+    text-align: left;
+    margin-left: 23%;
+    margin-top: 2.5%;
+    margin-bottom: 0%;
+  }
+  
+  
+  .CourseworkLine {
+    width: 60%;
+    border-color: black;
+    border-style:double;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: .5px;
+    margin-top: 0%;
+    margin-left: 23%;
+    
+  }
+  
+  .Coursework {
+    text-align: left;
+    margin-left: 23%;
+  }

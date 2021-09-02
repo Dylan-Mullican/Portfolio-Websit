@@ -1,0 +1,44 @@
+.navbar {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    
+   
+}
+
+.logo-box {
+    margin-left: 2.5%;
+    width: 10%;
+    
+   
+}
+
+.link-box {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    background-color:black;
+    height: 8%;
+}
+
+.link {
+    background-color:none;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 10%;
+
+
+}
+
+
+a {background-color:none;
+    border: none;
+    color : blueviolet;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;}
+
+    
+    

@@ -1,0 +1,60 @@
+.Picture {
+    text-align: center;
+    margin-top: 2.5%;
+}
+
+.SummaryTitle {
+    text-align: left;
+    margin-left: 25%;
+    
+}
+
+.Summary {
+    text-align: left;
+    margin-left: 25.5%;
+    margin-right: 23%;
+}
+
+.InterestContainer {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.AcademicInterestContainer {
+    margin-left: 35%;
+}
+
+.AcademicInterestTitle {
+    text-align: left;
+    
+}
+
+.AcademicInterest {
+    text-align: left;
+    
+}
+
+.PersonalInterestContainer {
+    margin-right: 25%;
+}
+
+.PersonalInterestTitle {
+    text-align: left;
+    
+
+}
+
+.PersonalInterest {
+    text-align: left;
+}
+
+
+.ContactTitle {
+    text-align: center;
+    margin-top: 2.5%;
+}
+
+.ContactInfo {
+    text-align: center;
+}
